@@ -6,3 +6,14 @@ Makefile.gyp
 *.target.gyp.mk
 node_modules/
 builderror.log
+*.node
+*.sln
+*.sdf
+*.vcxproj
+*.suo
+*.opensdf
+*.filters
+*.user
+*.project
+.idea
+test.js
